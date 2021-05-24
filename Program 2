@@ -2,6 +2,7 @@
 int main() {   
     int number;
    
+    // Basic code 2
     printf("Enter an integer: ");  
     
     // reads and stores input
