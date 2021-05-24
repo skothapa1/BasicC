@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main() {
+    // Program to Find the Size of Variables
     int intType;
     float floatType;
     double doubleType;
